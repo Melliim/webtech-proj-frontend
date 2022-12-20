@@ -1,5 +1,7 @@
 # webtech-proj-frontend
 
+[![CI](https://github.com/Melliim/webtech-proj-frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/Melliim/webtech-proj-frontend/actions/workflows/ci.yml)
+
 ## Project setup
 ```
 npm install
